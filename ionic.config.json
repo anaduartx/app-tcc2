@@ -1,0 +1,7 @@
+{
+  "name": "closetmatch-app2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
