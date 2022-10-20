@@ -1,11 +1,23 @@
 *{
-    --ion-background-color:#e37f6d;
     font-family: 'Poppins', sans-serif;
   }
+
+  .tudo{
+    background-color:#e37f6d;
+  }
   
- 
-  
+ .imgFundo{
+  margin-top: 50px;
+  width: 274px;
+  height: 274px;
+
+ }
+
+  .imgCard{
+
+  }
   #container {
+
     text-align: center;
   
     position: absolute;
@@ -76,3 +88,4 @@
   ion-card{
     background-color: #ffff;
   }
+

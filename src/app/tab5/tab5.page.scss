@@ -1,9 +1,16 @@
 *{
-    --ion-background-color:#FFCA79;
+    --ion-background-color:#62AADC;
     font-family: 'Poppins', sans-serif;
   }
 
-  
+  .imgCarrinho{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+
+  }
+
   #container {
     text-align: center;
   
@@ -61,7 +68,6 @@
   }
   
   ion-button{
-    background-color: black;
     color: #ffff;
     position: absolute;
     left: 70px;
@@ -73,7 +79,5 @@
   }
 
   ion-card{
-    margin-top: 50px;
     background-color: #ffff;
   }
-
